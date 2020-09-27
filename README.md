@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Mikhail Koverda and I am a graduate student at Yaroslavl state University, Russia 🥶. Here I share small useful pieces of code that I use in my scientific work.
+My name is Mikhail Koverda and I am a graduate student at Yaroslavl state University, Russia ❄️🥶. Here I share small useful pieces of code that I use in my scientific work.
 
 ### How to find me 🌿
 
