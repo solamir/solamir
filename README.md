@@ -13,3 +13,5 @@ Write on e-mail **m.koverda@uniyar.ac.ru**
 At the moment, the code posted here is used in the following articles.
 
 - Koverda M., Ofitserov E., Shilanova E., Orlov V. Using the molecular rotational motion concept to predict the volume expansion coefficients of liquids. *Physics and Chemistry of Liquids*, 2020 (in print). DOI: https://doi.org/10.1080/00319104.2020.1814774.
+
+![Ice](ice.jpg)
