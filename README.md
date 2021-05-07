@@ -6,7 +6,7 @@ My name is Mikhail Koverda and I am a graduate student at Yaroslavl state Univer
 
 ### How to find me 🌿
 
-Write on e-mail **m.koverda@uniyar.ac.ru**
+Write on e-mail **m@kovd.su**
 
 ### Papers
 
